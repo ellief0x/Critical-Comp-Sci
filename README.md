@@ -8,7 +8,7 @@ https://dl.acm.org/doi/10.1145/3442188.3445922
 
 
 
-Geographies of conservation II: Technology, surveillance and conservation by algorithm Adams (2019)
+Geographies of conservation II: Technology, surveillance and conservation algorithm Adams (2019)
 https://journals.sagepub.com/doi/full/10.1177/0309132517740220
 
 
