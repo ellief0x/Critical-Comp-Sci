@@ -31,3 +31,5 @@ https://www.youtube.com/watch?v=QqZVx6NCkPg
 
 Jaron Lanier: How the Internet Failed and How to Recreate It
 https://www.youtube.com/watch?v=KNOlqzMd2Zw
+Jaron Lanier, Sue Halpern, in conversation with Marcelo Gleise - Doubling Down: Preserving Our Humanity in the Digital Age
+https://www.youtube.com/watch?v=8qpB9v-OrAU
