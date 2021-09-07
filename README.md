@@ -6,7 +6,8 @@ Resources and links to critical computer science discussions and topics
 On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜 Bender et al. 2021
 https://dl.acm.org/doi/10.1145/3442188.3445922
 
-
+Could a Neuroscientist Understand a Microprocessor? Eric Jonas Konrad Paul Kording 2013
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268
 
 Geographies of conservation II: Technology, surveillance and conservation algorithm Adams (2019)
 https://journals.sagepub.com/doi/full/10.1177/0309132517740220
