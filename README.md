@@ -19,6 +19,8 @@ Big Data, new epistemologies and paradigm shifts
 Rob Kitchin (2014)
 https://journals.sagepub.com/doi/full/10.1177/2053951714528481
 
+Towards decolonising computational sciences. Birhane and Guest (2020)
+https://arxiv.org/abs/2009.14258
 
 ## Books
 Algorithms of Oppression: How Search Engines Reinforce Racism by Safiya Umoja Noble
